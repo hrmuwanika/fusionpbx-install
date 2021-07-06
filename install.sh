@@ -1,4 +1,18 @@
-#!/bin/sh
+#!/bin/bash
+
+################################################################################
+# Script for installing Fusionpbx on Debian Buster
+# Authors: Henry Robert Muwanika
+#-------------------------------------------------------------------------------
+# 
+#-------------------------------------------------------------------------------
+# Make a new file:
+# sudo nano install.sh
+# Place this content in it and then make the file executable:
+# sudo chmod +x install.sh
+# Execute the script to install Fusionpbx:
+# ./install.sh
+################################################################################
 
 #--------------------------------------------------
 # Upgrade the packages
